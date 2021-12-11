@@ -6,7 +6,7 @@
 Scrapped some code from @SpEcHIDe's AnyDLBot Repository
 Please fork this repository don't import code
 Made with Python3
-(C) @TheTeleRoid
+(C) @Z_Bots
 Copyright permission under GNU General Public License v3.0
 License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 ```
@@ -29,7 +29,7 @@ License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 * dthumbnail -  🎇  Delete thumbnail
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/PredatorHackerzZ/RENAMER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/madtoazenzio/RENAMER-2.0-Z)
 
 ### Credits
 
