@@ -63,5 +63,5 @@ class Scripted(object):
     JOIN_NOW_TEXT = "<code>First Join My Updates Channel to Use Me</code>"
     REPLY_TO_FILE = "<i>Reply to that media with /rename new name .ext</i>"
     CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact in Support Group @Z_Bots 😑</i>"
-    START_TEXT = "<i>This is a Fastest File Renamer and Converter <a href="https://telegra.ph/file/51217c71df0a1dc7196c8.jpg">Bot</a> With Permanant Thumbnail Support💯</i>"
+    START_TEXT = "<i>This is a Fastest File Renamer and Converter Bot With Permanant Thumbnail Support💯</i>"
     UPGRADE_TEXT = "<b>To upgrade your bot <a href='https://t.me/Z_Bots'>[ Click Here]</a></b>"
