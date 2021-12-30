@@ -44,6 +44,7 @@ class Scripted(object):
 │
 ├<b>🚸 Pᴏᴡᴇʀᴇᴅ Bʏ : <a href='https://t.me/Asyn_Editz'>@AsynEditZ</a></b>
 │
+|<b>🚸 Cᴏ-Pᴏᴡᴇʀᴇᴅ Bʏ : <a href='https://t.me/MLM_CartoonZ_World'>@MLM_CARTOONZ_WORLD</a></b>
 ╰──────[Thanks 😊]───⍟"""
 
     CUSTOM_CAPTION = "<i>{}</i>"
