@@ -26,23 +26,23 @@ class Scripted(object):
     ABOUT_TEXT = """
 ╭────[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
 │
-├<b>🤖 Bot Name : <a href='t.me/RenamerZ2_0_bot'>Rename 2.0 Bot</a></b>
+├<b>🤖 Bᴏᴛ Nᴀᴍᴇ : <a href='t.me/RenamerZ2_0_bot'>Rename 2.0 Bot</a></b>
 │
-├<b>📢 Channel : <a href='https://t.me/Z_Bots'>Z_Bots</a></b>
+├<b>📢 Cʜᴀɴɴᴇʟ : <a href='https://t.me/Z_Bots'>Z_Bots</a></b>
 │
-├<b>👥 Version : <a href='https://t.me/RenamerZ2_0_bot'>0.9.2 beta</a></b>
+├<b>👥 Vᴇʀsɪᴏɴ : <a href='https://t.me/RenamerZ2_0_bot'>0.9.2 beta</a></b>
 │
-├<b>💢 Source : <a href='https://github.com/madtoazenzio/RENAMER-2.0-Z'>Click Here</a></b>
+├<b>💢 Sᴏᴜʀᴄᴇ : <a href='https://github.com/madtoazenzio/RENAMER-2.0-Z'>Click Here</a></b>
 │
-├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
+├<b>🌐 Sᴇʀᴠᴇʀ : <a href='https://heroku.com'>Heroku</a></b>
 │
-├<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
+├<b>📕 Lɪʙʀᴀʀʏ : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
 │
-├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
+├<b>㊙ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/RenamerZ2_0_bot'>@Z_Admin</a></b>
+├<b>👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/RenamerZ2_0_bot'>@Z_Admin</a></b>
 │
-├<b>🚸 Powered By : <a href='https://t.me/Asyn_Editz'>@AsynEditZ</a></b>
+├<b>🚸 Pᴏᴡᴇʀᴇᴅ Bʏ : <a href='https://t.me/Asyn_Editz'>@AsynEditZ</a></b>
 │
 ╰──────[Thanks 😊]───⍟"""
 
